@@ -2,7 +2,7 @@
 
 ## Autores
 - **Hicham El Farissi Ahram**
-- **Juan Antonio Aznar Delgado**
+- **Juan Aznar Delgado**
 
 ## Descripción
 H&J Virtual Academy es un aula virtual interactiva diseñada con un estilo simple y elegante para proporcionar un entorno de aprendizaje eficiente.
